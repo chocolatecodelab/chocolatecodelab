@@ -21,6 +21,9 @@ I'm a Fullstack Developer and currently studying Computer Science at Universitas
 </a>
 </p>
 
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=chocolatecodelab&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
 ### 🔍 You Can Find Me at 
 <p> 
   <a href="https://www.linkedin.com/in/muhammad-nazar-gunawan/" target="_blank">
